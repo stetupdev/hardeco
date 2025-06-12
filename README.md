@@ -10,7 +10,7 @@
 - ⛏️ Earn money by mining valuable ores (configurable payout rates)
 - 📊 `/balance` command to check your current money
 - 💾 Balance stored in a simple JSON file under `config/`
-- 📈 Fully local — no server required, perfect for hardcore worlds
+- 📈 Fully local — no server required, perfect for hardcore worlds or singleplayer hosted on platforms like E4MC
 
 ---
 
